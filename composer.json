@@ -1,0 +1,49 @@
+{
+    "name": "norman-huth/console-app-template",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "NormanHuth\\ConsoleApp\\": "src/"
+        },
+        "files": [
+            "functions/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Norman Huth",
+            "homepage": "https://huth.it"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/Muetze42/data/issues",
+        "source": "https://github.com/Muetze42/data"
+    },
+    "keywords": [
+        "cli",
+        "command",
+        "command-line",
+        "console",
+        "php",
+        "illuminate",
+        "laravel",
+        "terminal"
+    ],
+    "require": {
+        "php": "^8.2",
+        "guzzlehttp/guzzle": "^7.8",
+        "illuminate/collections": "^10.0|^11.0",
+        "illuminate/config": "^10.0|^11.0",
+        "illuminate/console": "^10.0|^11.0",
+        "illuminate/contracts": "^10.0|^11.0",
+        "illuminate/events": "^10.0|^11.0",
+        "illuminate/macroable": "^10.0|^11.0",
+        "illuminate/support": "^10.0|^11.0",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
