@@ -9,6 +9,7 @@ return [
         '@fortawesome/free-solid-svg-icons',
         '@fortawesome/vue-fontawesome',
         '@headlessui/vue',
+        '@rushstack/eslint-patch',
         '@inertiajs/vue3',
         '@norman-huth/helpers-collection-js',
         '@tailwindcss/forms',
