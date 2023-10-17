@@ -89,7 +89,7 @@ class App
             if ($className == 'Command') {
                 continue;
             }
-            $class = __NAMESPACE__ . '\\' . $path . '\\' . $className;
+            $class = __NAMESPACE__ . '\\' . str_replace('/', '\\', $path) . '\\' . $className;
             $this->artisan->resolve($class);
         }
 

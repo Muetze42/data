@@ -7,10 +7,11 @@ Finished:
 * Update NPM & FontAwesome versions
 * Update Composer versions
 * Update Laravel Nova version
+* Push Git
 
 Todo:
 
-* Push Git
+* Deployment Script
 
 ---
 
