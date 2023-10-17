@@ -26,16 +26,21 @@ class UpdateGitRepoCommand extends Command
         $gitCommitPrefix = 'git -c user.name="' . $_ENV['GIT_COMMIT_USER_NAME'] .
             '" -c user.email="' . $_ENV['GIT_COMMIT_USER_EMAIL'] . '"';
 
-        $gitCommands = [
+        $commands = [
             'commit -a -m "automatic update"',
             'push'
         ];
 
-        $gitCommands = array_map(function ($command) use ($gitCommitPrefix) {
+        $commands = array_map(function ($command) use ($gitCommitPrefix) {
             return $gitCommitPrefix . ' ' . $command;
-        }, $gitCommands);
+        }, $commands);
 
-        $command = implode(' && ', $gitCommands);
+        $commands = array_merge(
+            ['cd ' . dirname(__DIR__, 3)],
+            $commands
+        );
+
+        $command = implode(' && ', $commands);
 
         $this->line($command);
 
