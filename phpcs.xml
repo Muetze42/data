@@ -28,4 +28,5 @@
     <exclude-pattern>*/.phpstorm.meta.php</exclude-pattern>
     <exclude-pattern>*/.vscode/*</exclude-pattern>
     <exclude-pattern>*/_ide_*.php</exclude-pattern>
+    <exclude-pattern>*/vendor/*.php</exclude-pattern>
 </ruleset>
