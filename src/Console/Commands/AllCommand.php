@@ -24,5 +24,7 @@ class AllCommand extends Command
     public function handle(): void
     {
         $this->call('update:npm');
+        $this->call('update:composer');
+        $this->call('update:nova');
     }
 }

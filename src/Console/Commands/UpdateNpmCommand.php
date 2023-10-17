@@ -27,7 +27,7 @@ class UpdateNpmCommand extends Command
      */
     public function handle(): void
     {
-        $data = getStorageData();
+
         $versions = [];
         $packages = config('packages');
 
@@ -60,8 +60,6 @@ class UpdateNpmCommand extends Command
             $versions[$package] = $contents['version'];
         }
 
-        ksort($versions);
-        data_set($data, 'npm', $versions);
-        setStorageData($data);
+        $this->storeVersionData('npm', $versions);
     }
 }

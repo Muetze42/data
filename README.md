@@ -5,10 +5,11 @@ Data collection repository.
 Finished:
 
 * Update NPM & FontAwesome versions
+* Update Composer versions
+* Update Laravel Nova version
 
 Todo:
 
-* Update Vendor versions
 * Push Git
 
 ---

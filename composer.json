@@ -31,6 +31,7 @@
     ],
     "require": {
         "php": "^8.2",
+        "composer/composer": "^2.6",
         "guzzlehttp/guzzle": "^7.8",
         "illuminate/collections": "^10.0|^11.0",
         "illuminate/config": "^10.0|^11.0",
