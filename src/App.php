@@ -3,6 +3,7 @@
 namespace NormanHuth\ConsoleApp;
 
 use Illuminate\Events\Dispatcher;
+use Illuminate\Console\Application;
 
 class App
 {
