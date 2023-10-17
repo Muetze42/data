@@ -26,5 +26,6 @@ class AllCommand extends Command
         $this->call('update:npm');
         $this->call('update:composer');
         $this->call('update:nova');
+        $this->call('update:git');
     }
 }

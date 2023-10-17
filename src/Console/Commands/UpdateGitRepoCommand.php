@@ -27,8 +27,8 @@ class UpdateGitRepoCommand extends Command
             '" -c user.email="' . $_ENV['GIT_COMMIT_USER_EMAIL'] . '"';
 
         $gitCommands = [
-            'commit -m "automatic update"',
-//            'push'
+            'commit -a -m "automatic update"',
+            'push'
         ];
 
         $gitCommands = array_map(function ($command) use ($gitCommitPrefix) {
@@ -36,6 +36,8 @@ class UpdateGitRepoCommand extends Command
         }, $gitCommands);
 
         $command = implode(' && ', $gitCommands);
+
+        $this->line($command);
 
         exec($command, $output, $resultCode);
 
