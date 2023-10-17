@@ -79,6 +79,7 @@ return [
         'hisorange/browser-detect',
         'inertiajs/inertia-laravel',
         'laravel/framework',
+        'laravel/prompts',
         'laravel/sanctum',
         'laravel/socialite',
         'league/commonmark',
