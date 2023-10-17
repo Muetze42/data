@@ -100,6 +100,7 @@ return [
         'spatie/laravel-activitylog',
         'spatie/laravel-ignition',
         'spatie/laravel-medialibrary',
+        'spatie/laravel-permission',
         'spatie/laravel-tags',
         'spatie/laravel-translatable',
         'symfony/console',
