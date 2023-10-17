@@ -87,6 +87,7 @@ return [
         'monolog/monolog',
         'nesbot/carbon',
         'norman-huth/helpers-collection-laravel',
+        'norman-huth/helpers-collection-php',
         'norman-huth/laravel-git-backup',
         'norman-huth/nova-assets-versioning',
         'norman-huth/nova-menu',
