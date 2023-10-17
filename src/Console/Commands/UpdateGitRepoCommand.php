@@ -42,10 +42,10 @@ class UpdateGitRepoCommand extends Command
 
         $command = implode(' && ', $commands);
 
-        $this->line($command);
+//        $this->line($command);
 
         exec($command, $output, $resultCode);
 
-        echo implode("\n", $output);
+//        echo implode("\n", $output);
     }
 }
