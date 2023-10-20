@@ -16,7 +16,7 @@
         "laravel/sanctum": "^3.3",
         "laravel/socialite": "^5.9",
         "league/commonmark": "^2.4",
-        "league/flysystem": "^3.17",
+        "league/flysystem": "^3.18",
         "league/mime-type-detection": "^1.14",
         "monolog/monolog": "^3.4",
         "nesbot/carbon": "^2.71",
