@@ -17,16 +17,16 @@ class Command extends ConsoleCommand
     /**
      * Store versions data.
      *
-     * @param string $key
-     * @param array  $data
-     * @param bool   $merge
+     * @param string       $key
+     * @param array|string $data
+     * @param bool         $merge
      *
      * @return void
      */
     protected function storeVersionData(
-        #[ExpectedValues(values: ['composer', 'npm'])]
+        #[ExpectedValues(values: ['composer', 'npm', 'php'])]
         string $key,
-        array $data,
+        array|string $data,
         bool $merge = false
     ): void {
         $file = dirname(__DIR__, 3) . DIRECTORY_SEPARATOR . 'storage' . DIRECTORY_SEPARATOR . 'versions.json';
@@ -46,7 +46,9 @@ class Command extends ConsoleCommand
             );
         }
 
-        ksort($data);
+        if (is_array($data)) {
+            ksort($data);
+        }
         data_set($allData, $key, $data);
 
         file_put_contents(
