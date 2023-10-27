@@ -18,7 +18,7 @@
         "league/commonmark": "^2.4",
         "league/flysystem": "^3.18",
         "league/mime-type-detection": "^1.14",
-        "monolog/monolog": "^3.4",
+        "monolog/monolog": "^3.5",
         "nesbot/carbon": "^2.71",
         "norman-huth/helpers-collection-laravel": "^1.1",
         "norman-huth/helpers-collection-php": "^1.3",
