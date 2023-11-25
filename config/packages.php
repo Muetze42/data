@@ -83,6 +83,7 @@ return [
         'illuminate/filesystem',
         'illuminate/support',
         'inertiajs/inertia-laravel',
+        'laravel/dusk',
         'laravel/framework',
         'laravel/prompts',
         'laravel/sanctum',
