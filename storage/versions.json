@@ -26,7 +26,7 @@
         "norman-huth/laravel-git-backup": "^1.0",
         "norman-huth/nova-assets-versioning": "^1.0",
         "norman-huth/nova-menu": "^1.7",
-        "norman-huth/nova-perspectives": "^1.0",
+        "norman-huth/nova-perspectives": "^1.1",
         "norman-huth/virus-total-php": "^1.0",
         "phpunit/phpunit": "^10.4",
         "psr/container": "^2.0",
