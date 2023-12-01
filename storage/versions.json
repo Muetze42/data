@@ -28,7 +28,7 @@
         "norman-huth/nova-menu": "^1.7",
         "norman-huth/nova-perspectives": "^1.1",
         "norman-huth/virus-total-php": "^1.0",
-        "phpunit/phpunit": "^10.4",
+        "phpunit/phpunit": "^10.5",
         "psr/container": "^2.0",
         "psr/log": "^3.0",
         "spatie/ignition": "^1.11",
