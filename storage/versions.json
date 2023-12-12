@@ -11,7 +11,7 @@
         "illuminate/support": "^10.36",
         "inertiajs/inertia-laravel": "^0.6.11",
         "laravel/dusk": "^7.12",
-        "laravel/framework": "^10.36",
+        "laravel/framework": "^10.37",
         "laravel/nova": "^4.32.9",
         "laravel/prompts": "^0.1.13",
         "laravel/sanctum": "^3.3",
