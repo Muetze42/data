@@ -69,7 +69,7 @@
         "autoprefixer": "10.4.16",
         "axios": "1.6.5",
         "eslint": "8.56.0",
-        "eslint-plugin-vue": "9.20.0",
+        "eslint-plugin-vue": "9.20.1",
         "laravel-vite-plugin": "1.0.1",
         "postcss": "8.4.33",
         "sass": "1.69.7",
