@@ -35,7 +35,7 @@
         "spatie/laravel-activitylog": "^4.7",
         "spatie/laravel-ignition": "^2.4",
         "spatie/laravel-medialibrary": "^11.4",
-        "spatie/laravel-permission": "^6.3",
+        "spatie/laravel-permission": "^6.4",
         "spatie/laravel-tags": "^4.6",
         "spatie/laravel-translatable": "^6.6",
         "symfony/console": "^7.0",
