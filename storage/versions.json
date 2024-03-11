@@ -9,7 +9,7 @@
         "illuminate/console": "^10.47",
         "illuminate/filesystem": "^10.47",
         "illuminate/support": "^10.47",
-        "inertiajs/inertia-laravel": "^0.6.11",
+        "inertiajs/inertia-laravel": "^1.0",
         "laravel/dusk": "^7.13",
         "laravel/framework": "^10.47",
         "laravel/nova": "^4.32.16",
