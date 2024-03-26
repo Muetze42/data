@@ -12,7 +12,7 @@
         "inertiajs/inertia-laravel": "^1.0",
         "laravel/dusk": "^8.0",
         "laravel/framework": "^11.0",
-        "laravel/nova": "^4.33.0",
+        "laravel/nova": "^4.33.1",
         "laravel/prompts": "^0.1.16",
         "laravel/sanctum": "^4.0",
         "laravel/socialite": "^5.12",
