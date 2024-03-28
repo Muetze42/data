@@ -32,7 +32,7 @@
         "psr/container": "^2.0",
         "psr/log": "^3.0",
         "sentry/sentry-laravel": "^4.4",
-        "spatie/ignition": "^1.12",
+        "spatie/ignition": "^1.13",
         "spatie/laravel-activitylog": "^4.8",
         "spatie/laravel-ignition": "^2.4",
         "spatie/laravel-medialibrary": "^11.4",
