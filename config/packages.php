@@ -86,6 +86,7 @@ return [
         'inertiajs/inertia-laravel',
         'laravel/dusk',
         'laravel/framework',
+        'laravel/pint',
         'laravel/prompts',
         'laravel/sanctum',
         'laravel/socialite',
