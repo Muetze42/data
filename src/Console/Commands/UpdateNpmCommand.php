@@ -57,7 +57,8 @@ class UpdateNpmCommand extends Command
                 // Todo: Log / Notification etc.
                 die('Error');
             }
-            $versions[$package] = $contents['version'];
+            $version = str_starts_with($contents['version'], '^') ? $contents['version'] : '^' . $contents['version'];
+            $versions[$package] = $version;
         }
 
         $this->storeVersionData('npm', $versions);
