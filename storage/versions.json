@@ -35,6 +35,7 @@
         "sentry/sentry-laravel": "^4.4",
         "spatie/ignition": "^1.13",
         "spatie/laravel-activitylog": "^4.8",
+        "spatie/laravel-backup": "^8.6",
         "spatie/laravel-ignition": "^2.5",
         "spatie/laravel-medialibrary": "^11.4",
         "spatie/laravel-permission": "^6.4",
