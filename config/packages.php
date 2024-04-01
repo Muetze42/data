@@ -108,6 +108,7 @@ return [
         'sentry/sentry-laravel',
         'spatie/ignition',
         'spatie/laravel-activitylog',
+        'spatie/laravel-backup',
         'spatie/laravel-ignition',
         'spatie/laravel-medialibrary',
         'spatie/laravel-permission',
