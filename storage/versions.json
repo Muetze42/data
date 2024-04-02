@@ -29,6 +29,8 @@
         "norman-huth/nova-perspectives": "^1.1",
         "norman-huth/php-library": "^0.0.4",
         "norman-huth/virus-total-php": "^1.0",
+        "pestphp/pest": "^2.34",
+        "pestphp/pest-plugin-laravel": "^2.3",
         "phpunit/phpunit": "^11.0",
         "psr/container": "^2.0",
         "psr/log": "^3.0",
