@@ -102,6 +102,8 @@ return [
         'norman-huth/nova-perspectives',
         'norman-huth/php-library',
         'norman-huth/virus-total-php',
+        'pestphp/pest',
+        'pestphp/pest-plugin-laravel',
         'phpunit/phpunit',
         'psr/container',
         'psr/log',
