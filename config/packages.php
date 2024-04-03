@@ -90,6 +90,7 @@ return [
         'laravel/fortify',
         'laravel/framework',
         'laravel/jetstream',
+        'laravel/passport',
         'laravel/pennant',
         'laravel/pint',
         'laravel/prompts',
@@ -111,7 +112,6 @@ return [
         'norman-huth/nova-perspectives',
         'norman-huth/php-library',
         'norman-huth/virus-total-php',
-        'pestphp/passport',
         'pestphp/pest',
         'pestphp/pest-plugin-laravel',
         'phpunit/phpunit',
@@ -132,8 +132,6 @@ return [
         'symfony/mime',
         'symfony/uid',
         'symfony/var-dumper',
-        'torchlight/torchlight-commonmark',
-        'torchlight/torchlight-laravel',
     ],
 
     /*
