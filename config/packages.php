@@ -31,6 +31,7 @@ return [
         'autoprefixer',
         'axios',
         'eslint',
+        'eslint-config-next',
         'eslint-plugin-vue',
         'laravel-vite-plugin',
         'postcss',
