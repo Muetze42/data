@@ -114,6 +114,7 @@ return [
         'norman-huth/nova-perspectives',
         'norman-huth/php-library',
         'norman-huth/virus-total-php',
+        'nunomaduro/collision',
         'pestphp/pest',
         'pestphp/pest-plugin-laravel',
         'phpunit/phpunit',
