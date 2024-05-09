@@ -85,6 +85,7 @@ return [
         'illuminate/filesystem',
         'illuminate/support',
         'inertiajs/inertia-laravel',
+        'larastan/larastan',
         'laravel/breeze',
         'laravel/dusk',
         'laravel/envoy ',
