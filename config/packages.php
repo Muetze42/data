@@ -108,6 +108,7 @@ return [
         'league/mime-type-detection',
         'monolog/monolog',
         'nesbot/carbon',
+        'norman-huth/find-command',
         'norman-huth/laravel-git-backup',
         'norman-huth/nova-assets-versioning',
         'norman-huth/nova-menu',
