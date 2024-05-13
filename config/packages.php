@@ -97,7 +97,7 @@ return [
         'laravel/pint',
         'laravel/prompts',
         'laravel/pulse',
-        'laravel/reverb',
+        //'laravel/reverb',
         'laravel/sanctum',
         'laravel/scout',
         'laravel/socialite',
