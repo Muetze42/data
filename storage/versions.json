@@ -55,12 +55,12 @@
         "spatie/laravel-permission": "^6.7",
         "spatie/laravel-tags": "^4.6",
         "spatie/laravel-translatable": "^6.7",
-        "symfony/console": "^7.0",
-        "symfony/finder": "^7.0",
-        "symfony/http-foundation": "^7.0",
-        "symfony/mime": "^7.0",
-        "symfony/uid": "^7.0",
-        "symfony/var-dumper": "^7.0"
+        "symfony/console": "^7.1",
+        "symfony/finder": "^7.1",
+        "symfony/http-foundation": "^7.1",
+        "symfony/mime": "^7.1",
+        "symfony/uid": "^7.1",
+        "symfony/var-dumper": "^7.1"
     },
     "npm": {
         "@babel/plugin-syntax-dynamic-import": "7.8.3",
@@ -80,7 +80,7 @@
         "@sentry/vite-plugin": "2.17.0",
         "@sentry/vue": "8.7.0",
         "@tailwindcss/forms": "0.5.7",
-        "@vitejs/plugin-vue": "5.0.4",
+        "@vitejs/plugin-vue": "5.0.5",
         "@vue/eslint-config-prettier": "9.0.0",
         "autoprefixer": "10.4.19",
         "axios": "1.7.2",
