@@ -97,7 +97,6 @@ return [
         'laravel/pint',
         'laravel/prompts',
         'laravel/pulse',
-        //'laravel/reverb',
         'laravel/sanctum',
         'laravel/scout',
         'laravel/socialite',
@@ -118,6 +117,7 @@ return [
         'nunomaduro/collision',
         'pestphp/pest',
         'pestphp/pest-plugin-laravel',
+        'phpmd/phpmd',
         'phpunit/phpunit',
         'psr/container',
         'psr/log',
@@ -136,6 +136,7 @@ return [
         'symfony/mime',
         'symfony/uid',
         'symfony/var-dumper',
+        //'laravel/reverb',
     ],
 
     /*
