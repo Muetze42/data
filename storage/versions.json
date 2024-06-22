@@ -53,7 +53,7 @@
         "spatie/laravel-backup": "^8.8",
         "spatie/laravel-ignition": "^2.8",
         "spatie/laravel-medialibrary": "^11.7",
-        "spatie/laravel-permission": "^6.7",
+        "spatie/laravel-permission": "^6.8",
         "spatie/laravel-tags": "^4.6",
         "spatie/laravel-translatable": "^6.7",
         "symfony/console": "^7.1",
