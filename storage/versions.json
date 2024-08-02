@@ -44,7 +44,7 @@
         "pestphp/pest": "^2.34",
         "pestphp/pest-plugin-laravel": "^2.4",
         "phpmd/phpmd": "^2.15",
-        "phpunit/phpunit": "^11.2",
+        "phpunit/phpunit": "^11.3",
         "psr/container": "^2.0",
         "psr/log": "^3.0",
         "sentry/sentry-laravel": "^4.7",
