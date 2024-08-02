@@ -41,7 +41,7 @@
         "norman-huth/php-library": "^1.2",
         "norman-huth/virus-total-php": "^1.0",
         "nunomaduro/collision": "^8.3",
-        "pestphp/pest": "^2.34",
+        "pestphp/pest": "^2.35",
         "pestphp/pest-plugin-laravel": "^2.4",
         "phpmd/phpmd": "^2.15",
         "phpunit/phpunit": "^11.3",
