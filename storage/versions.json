@@ -1,6 +1,6 @@
 {
     "composer": {
-        "barryvdh/laravel-dompdf": "^2.2",
+        "barryvdh/laravel-dompdf": "^3.0",
         "barryvdh/laravel-ide-helper": "^3.1",
         "guzzlehttp/guzzle": "^7.9",
         "hisorange/browser-detect": "^5.0",
