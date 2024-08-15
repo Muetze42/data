@@ -47,7 +47,7 @@
         "phpunit/phpunit": "^11.3",
         "psr/container": "^2.0",
         "psr/log": "^3.0",
-        "sentry/sentry-laravel": "^4.7",
+        "sentry/sentry-laravel": "^4.8",
         "spatie/ignition": "^1.15",
         "spatie/laravel-activitylog": "^4.8",
         "spatie/laravel-backup": "^9.0",
