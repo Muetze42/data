@@ -80,7 +80,7 @@
         "@rushstack/eslint-patch": "1.10.4",
         "@sentry/vite-plugin": "2.22.3",
         "@sentry/vue": "8.27.0",
-        "@tailwindcss/forms": "0.5.7",
+        "@tailwindcss/forms": "0.5.8",
         "@vitejs/plugin-vue": "5.1.2",
         "@vue/eslint-config-prettier": "9.0.0",
         "autoprefixer": "10.4.20",
