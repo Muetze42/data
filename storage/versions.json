@@ -89,7 +89,7 @@
         "eslint-config-next": "14.2.7",
         "eslint-plugin-vue": "9.28.0",
         "laravel-vite-plugin": "1.0.5",
-        "postcss": "8.4.44",
+        "postcss": "8.4.45",
         "sass": "1.78.0",
         "sass-loader": "16.0.1",
         "tailwind-forms": "1.0.6",
