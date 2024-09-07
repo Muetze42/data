@@ -26,6 +26,7 @@ return [
         '@sentry/vite-plugin',
         '@sentry/vue',
         '@tailwindcss/forms',
+        '@typescript-eslint/eslint-plugin',
         '@vitejs/plugin-vue',
         '@vue/eslint-config-prettier',
         'autoprefixer',
@@ -40,10 +41,11 @@ return [
         'tailwind-forms',
         'tailwind-scrollbar',
         'tailwindcss',
+        'typescript',
         'vite',
         'vue',
-        'vue',
         'vue-loader',
+        'vue-tsc',
     ],
 
     /*
