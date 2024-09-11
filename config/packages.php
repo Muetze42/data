@@ -21,6 +21,7 @@ return [
         '@fortawesome/free-solid-svg-icons',
         '@fortawesome/vue-fontawesome',
         '@headlessui/vue',
+        '@heroicons/vue',
         '@inertiajs/vue3',
         '@primevue/themes',
         '@rushstack/eslint-patch',
