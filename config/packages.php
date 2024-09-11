@@ -30,6 +30,7 @@ return [
         '@tailwindcss/forms',
         '@typescript-eslint/eslint-plugin',
         '@vitejs/plugin-vue',
+        'vue-material-design-icons',
         '@vue/eslint-config-prettier',
         '@vueform/vueform',
         'autoprefixer',
