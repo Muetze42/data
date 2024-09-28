@@ -28,9 +28,9 @@ return [
         '@sentry/vite-plugin',
         '@sentry/vue',
         '@tailwindcss/forms',
+        '@types/node',
         '@typescript-eslint/eslint-plugin',
         '@vitejs/plugin-vue',
-        'vue-material-design-icons',
         '@vue/eslint-config-prettier',
         '@vueform/vueform',
         'autoprefixer',
@@ -51,6 +51,7 @@ return [
         'vite',
         'vue',
         'vue-loader',
+        'vue-material-design-icons',
         'vue-tsc',
     ],
 
