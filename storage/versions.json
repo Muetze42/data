@@ -38,7 +38,7 @@
         "norman-huth/nova-assets-versioning": "^1.1",
         "norman-huth/nova-menu": "^1.8",
         "norman-huth/nova-perspectives": "^1.2",
-        "norman-huth/php-library": "^2.18",
+        "norman-huth/php-library": "^2.19",
         "norman-huth/virus-total-php": "^1.0",
         "nunomaduro/collision": "^8.5",
         "pestphp/pest": "^3.7",
