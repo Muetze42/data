@@ -89,7 +89,7 @@
         "@vue/eslint-config-prettier": "10.2.0",
         "@vueform/vueform": "1.12.3",
         "autoprefixer": "10.4.20",
-        "axios": "1.7.9",
+        "axios": "1.8.0",
         "eslint": "9.21.0",
         "eslint-config-next": "15.1.7",
         "eslint-plugin-vue": "9.32.0",
