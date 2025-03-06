@@ -81,7 +81,7 @@
         "@primevue/themes": "4.3.1",
         "@rushstack/eslint-patch": "1.10.5",
         "@sentry/vite-plugin": "3.2.2",
-        "@sentry/vue": "9.4.0",
+        "@sentry/vue": "9.5.0",
         "@tailwindcss/forms": "0.5.10",
         "@types/node": "22.13.9",
         "@typescript-eslint/eslint-plugin": "8.26.0",
