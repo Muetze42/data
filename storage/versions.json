@@ -91,7 +91,7 @@
         "autoprefixer": "10.4.21",
         "axios": "1.8.4",
         "eslint": "9.23.0",
-        "eslint-config-next": "15.2.3",
+        "eslint-config-next": "15.2.4",
         "eslint-plugin-vue": "10.0.0",
         "laravel-vite-plugin": "1.2.0",
         "postcss": "8.5.3",
