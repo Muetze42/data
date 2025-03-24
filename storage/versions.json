@@ -31,7 +31,7 @@
         "league/commonmark": "^2.6",
         "league/flysystem": "^3.29",
         "league/mime-type-detection": "^1.16",
-        "monolog/monolog": "^3.8",
+        "monolog/monolog": "^3.9",
         "nesbot/carbon": "^3.8",
         "norman-huth/find-command": "^1.2",
         "norman-huth/laravel-git-backup": "^1.0",
