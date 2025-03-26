@@ -17,7 +17,7 @@
         "laravel/fortify": "^1.25",
         "laravel/framework": "^12.3",
         "laravel/jetstream": "^5.3",
-        "laravel/nova": "^5.4.2",
+        "laravel/nova": "^5.4.3",
         "laravel/passport": "^12.4",
         "laravel/pennant": "^1.16",
         "laravel/pint": "^1.21",
