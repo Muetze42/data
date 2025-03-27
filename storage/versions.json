@@ -6,7 +6,7 @@
         "hisorange/browser-detect": "^5.0",
         "illuminate/collections": "^12.3",
         "illuminate/config": "^12.3",
-        "illuminate/console": "^12.3",
+        "illuminate/console": "^12.2",
         "illuminate/filesystem": "^12.3",
         "illuminate/support": "^12.3",
         "inertiajs/inertia-laravel": "^2.0",
