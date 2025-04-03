@@ -97,7 +97,7 @@
         "postcss": "8.5.3",
         "primeicons": "7.0.0",
         "primevue": "4.3.3",
-        "sass": "1.86.1",
+        "sass": "1.86.2",
         "sass-loader": "16.0.5",
         "tailwind-forms": "1.0.6",
         "tailwind-scrollbar": "4.0.2",
