@@ -10,7 +10,7 @@
         "illuminate/filesystem": "^12.7",
         "illuminate/support": "^12.7",
         "inertiajs/inertia-laravel": "^2.0",
-        "larastan/larastan": "^3.2",
+        "larastan/larastan": "^3.3",
         "laravel/breeze": "^2.3",
         "laravel/dusk": "^8.3",
         "laravel/envoy": "^2.10",
